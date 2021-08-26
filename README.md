@@ -1,4 +1,4 @@
-# TechBlog [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# TechBlog 
 
 ## Description
 The purpose of this project was to build a CMS-style blog site utilizing the Model-View-Controller paradigm.
@@ -18,7 +18,7 @@ This project requires Node.js along with several npm packages, which can be foun
 The user can click the login link to either sign in or sign up, and then create, edit, or delete a blog post on their dashboard. On the home page they can view their blog posts in real time. 
 
 ## Contributing
-This project was created with assistance from Scott Brunswig @sbrunswig. 
+This project was created with assistance from Scott Brunswig @sbrunswig. It was a FREEBIE. 
 
 ## License
 MIT License
@@ -44,8 +44,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
-There are currently no tests for this project.
+There are currently no tests for this project. Please contact developer (Scott Brunswick) for issues.
 
 ## Questions
-Reach out to me at emilyrendleman@gmail.com if you have questions about this project. 
-You can explore more of my projects at https://github.com/emrendle.
+Reach out to me at nabiha.khan@me.com if you have questions about this project. 
